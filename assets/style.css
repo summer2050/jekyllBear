@@ -16,9 +16,9 @@
     --width: 720px;
     
     /* Typography */
-    --font-main: "Menlo", "Meslo LG",  monospace;
-    --font-secondary: "Menlo", "Meslo LG", monospace;
-    --font-monospace: "Menlo", "Meslo LG", monospace;
+    --font-main: 'Roboto Mono',  monospace;
+    --font-secondary: 'Roboto Mono', monospace;
+    --font-monospace: 'Roboto Mono', monospace;
     --font-scale: 0.9em;
     
     /* Spacing */
